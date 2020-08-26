@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>工具篇 - 分类 - Lucius&#39;s Blog</title>
+        <link>https://lz1228.gthub.io/categories/%E5%B7%A5%E5%85%B7%E7%AF%87/</link>
+        <description>工具篇 - 分类 - Lucius&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 26 Aug 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://lz1228.gthub.io/categories/%E5%B7%A5%E5%85%B7%E7%AF%87/" rel="self" type="application/rss+xml" /><item>
+    <title>提高效率的pc小工具</title>
+    <link>https://lz1228.gthub.io/win10%E6%95%88%E7%8E%87%E5%B0%8F%E5%B7%A5%E5%85%B7/</link>
+    <pubDate>Wed, 26 Aug 2020 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://lz1228.gthub.io/win10%E6%95%88%E7%8E%87%E5%B0%8F%E5%B7%A5%E5%85%B7/</guid>
+    <description><![CDATA[<p>All in one system的实现离不开&quot;润滑剂&rdquo;</p>]]></description>
+</item><item>
+    <title>Quicker&#43;RoamResearch</title>
+    <link>https://lz1228.gthub.io/quicker-roamresearch/</link>
+    <pubDate>Sat, 15 Aug 2020 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://lz1228.gthub.io/quicker-roamresearch/</guid>
+    <description><![CDATA[<p>整理RoamResearch使用过程中设计的一些Quicker快捷操作</p>]]></description>
+</item></channel>
+</rss>
